@@ -3,7 +3,7 @@
   "description": "A Powerful Telegram Bot written in PTB and Telethon",
   "logo": "https://telegra.ph/file/e3d7a1517f5d9a4c32806.jpg",
   "keywords": ["telegram-bot"],
-  "repository": "https://github.com/p-rinc-e/elizabeth.git",
+  "repository": "https://github.com/NewGangster/ELIZABETH",
   "env": {
     "TL_APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
